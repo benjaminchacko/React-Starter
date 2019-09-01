@@ -1,11 +1,11 @@
 import React from 'react';
-import NavBar from './components/navbar';
 
-export default ({ children }) => {
+const App = ({ children }) => {
   return (
     <React.Fragment>
-      <NavBar className="navbar" />
       {children}
     </React.Fragment>
   );
 };
+
+export default App;
