@@ -16,7 +16,7 @@ This repository is a starter template for React Apps with 4 npm dependencies.
 
 ### :scroll: License 
 This repository is published under the terms of the [MIT license](https://github.com/benjaminchacko/React-Counter-App/blob/master/LICENSE).
-© [Benjamin Chacko](https://GitHub.com/benjaminchacko), 2019
+© [Benjamin Chacko](https://GitHub.com/benjaminchacko), 2021 - 2025
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
